@@ -62,3 +62,64 @@
             to remarkable client retention rates.
   </li>
 </ul>
+
+<h4>
+  Passion Projects 💡
+</h4>
+
+<ul>
+  <li>
+    May 2023
+  </li>
+    <li>
+    Ever tried herding dragons? With DM Dock, game masters can effortlessly manage monsters and player data,
+            thanks to Django, PostgreSQL, React.js, and a sprinkle of magic
+  </li>
+    <li>
+    Crafting CRUD operations, I used LocalStorage for personalized profiles and seamlessly integrated a
+            third-party API for a seamless experience through 1,500 API elements.
+  </li>
+</ul>
+
+<h4>
+  Restaurant Order App - Your Food Adventure Awaits
+</h4>
+
+<ul>
+  <li>
+    June 2023
+  </li>
+    <li>
+    What's better than food? An app that orders it! I cooked up a React app that lets you build orders and see
+            the cost in real-time – all wrapped in a delicious UI.
+  </li>
+    <li>
+    I seasoned the codebase with best practices, making future updates a piece of cake.
+  </li>
+</ul>
+
+<h3>
+  Learning Never Stops 📚
+</h3>
+
+<h4>
+  General Assembly | Remote
+</h4>
+<ul>
+  <li>
+    Software Engineering Immersive | February 2023 - May 2023
+  </li>
+    <li>
+      Immersed in a 12-week program, I dived deep into software engineering – from product fundamentals to MVC
+            frameworks. Collaboration was the secret sauce.
+    
+  </li>
+</ul>
+
+
+<p>
+  Let's cook up some awesome projects together! Reach out to me at <a href="mailto:bethjmdev@gmail.com">bethjmdev@gmail.com</a>
+
+  Connect with me on:
+    <a href="https://www.linkedin.com/in/bethmillsdev/">https://www.linkedin.com/in/bethmillsdev/</a>
+</p>
