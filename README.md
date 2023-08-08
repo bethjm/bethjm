@@ -67,9 +67,13 @@
   Passion Projects 💡
 </h4>
 
+<h4>
+  DM DOCK
+</h4>
+
 <ul>
   <li>
-    May 2023
+    April 2023
   </li>
     <li>
     Ever tried herding dragons? With DM Dock, game masters can effortlessly manage monsters and player data,
