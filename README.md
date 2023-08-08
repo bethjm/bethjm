@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 
+<head>
+    <title>Beth Mills - Software Engineer</title>
+</head>
+
 <body>
 
     <h1>Hey there, I'm Beth Mills 👋</h1>
@@ -89,4 +93,3 @@
 </body>
 
 </html>
-
