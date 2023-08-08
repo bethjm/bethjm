@@ -103,6 +103,15 @@
 </h3>
 
 <h4>
+React - The Complete Guide 2023 (incl. React Router & Redux)
+</h4>
+<ul>
+  <li>
+    Gained mastery over React.js core concepts, Hooks, Redux, and React Router. Proficient in constructing efficient and sustainable web applications, employing advanced state management and component logic techniques. Demonstrated expertise in creating dynamic navigation, incorporating server-side rendering, and adhering to top-tier industry practices for responsive design and accessibility.
+  </li>
+</ul>
+
+<h4>
   General Assembly | Remote
 </h4>
 <ul>
@@ -112,7 +121,6 @@
     <li>
       Immersed in a 12-week program, I dived deep into software engineering – from product fundamentals to MVC
             frameworks. Collaboration was the secret sauce.
-    
   </li>
 </ul>
 
