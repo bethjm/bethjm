@@ -1,6 +1,6 @@
 <h1>Hey there, my name is Beth Mills 👋</h1>
-<h2>I am a Junior Software Engineer in Boston, MA</h2>
-<h2>Currently I am looking for an entry level software engineering job. Open to remote, hybrid, or in person roles</h2>
+<h2>I am a Junior Software Engineer in Boston, MA </br>
+  Currently I am looking for an entry level software engineering job. Open to remote, hybrid, or in person roles</h2>
 
 <ul>
   <li>
