@@ -107,6 +107,18 @@
   Learning Never Stops 📚
 </h3>
 
+<h4>React Native - The Practile Guide</h4>
+<ul>
+  <li>
+This course on Udemy, "React Native - The Practical Guide," has equipped me with skills for efficient app development. Proficiency in navigation, styling, third-party libraries utilization, and debugging is now second nature. Additionally, mastery in implementing critical features like maps, image pickers, user authentication, and seamless server connections has been achieved.
+</li>
+</ul>
+
+<h4>Agile Course: Agile Project Managment, Agile Devlivery</h4>
+<ul><li>
+Completion of the intensive course on Agile Development and Project Delivery from Udemy has led to a deep understanding of Agile methodologies and their application. Proficiency in enhancing project efficiency using Agile principles, with a strong command of concepts like user stories, daily stand-ups, retrospectives, and kanban boards, has been acquired.
+</li></ul>
+
 <h4>
 React - The Complete Guide 2023 (incl. React Router & Redux)
 </h4>
