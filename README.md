@@ -2,11 +2,13 @@
   <p>As a software engineer with a background in personal training, I bring a unique perspective to complex problem solving. My experience in applying biomechanics to personal training ignited my passion for analytical and empathetic approaches to challenges, which inspired me to pursue software engineering.</p>
   <p>My commitment to lifelong learning and collaboration has propelled me to constantly seek new ways to innovate and contribute to shared goals. With a dedication to excellence and a passion for knowledge, I am eager to join a team that shares my values and contribute my skills to drive success.</p>
 <p>Currently I am looking for an entry level full stack engineering job. Open to remote, hybrid, or in person roles</p>
-      <p>(508) 525-7104 ∙ bethjmdev@gmail.com ∙ Boston, MA</p>
  </br>
     <p>
-      <a href="https://bethjmdev.netlify.app/">Portfolio</a> ∙
-      <a href="https://www.linkedin.com/in/bethmillsdev/">LinkedIn</a> ∙
+      <a href="https://bethjmdev.netlify.app/">Portfolio</a>
+      <a href="https://www.linkedin.com/in/bethmillsdev/">LinkedIn</a>
+      <p>(508) 525-7104</p>
+      <p>bethjmdev@gmail.com</p>
+      <p>Boston, MA</p>
     </p>
   </br>
     <h2>Skills</h2>
