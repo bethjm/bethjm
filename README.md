@@ -5,6 +5,7 @@
  </br>
 <p>
    <a href="https://bethjmdev.netlify.app/">Portfolio</a>
+   </br>
       <a href="https://www.linkedin.com/in/bethmillsdev/">LinkedIn</a>
   </p>
       <p>(508) 525-7104</p>
