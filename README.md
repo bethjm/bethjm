@@ -1,150 +1,101 @@
 <h1>Hey there, my name is Beth Mills 👋</h1>
 <h2>I am a Junior Software Engineer in Boston, MA </br>
   Currently I am looking for an entry level software engineering job. Open to remote, hybrid, or in person roles</h2>
+      <p>(508) 525-7104 ∙ bethjmdev@gmail.com ∙ Boston, MA</p>
+  
+  <header>
+    <p>
+      <a href="link-to-portfolio">Portfolio</a> ∙
+      <a href="link-to-linkedin">LinkedIn</a> ∙
+      <a href="link-to-github">GitHub</a>
+    </p>
+  </header>
 
-<ul>
-  <li>
-    Email:
-    <a href="mailto:bethjmdev@gmail.com">bethjmdev@gmail.com</a>
-  </li>
-    <li>
-    LinkedIn:
-    <a href="https://www.linkedin.com/in/bethmillsdev/">https://www.linkedin.com/in/bethmillsdev/</a>
-  </li>
-    <li>
-    Portfolio:
-    <a href="https://bethjmdev.netlify.app/">https://bethjmdev.netlify.app/</a>
-  </li>
-</ul>
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Languages - JavaScript, HTML, CSS, Python, SQL Server, Mongo, JSON, EJS</li>
+      <li>Database - PostgreSQL, MongoDB, SQL</li>
+      <li>Frameworks - React Native, JQuery, Bootstrap, Next.js, Bulma.io</li>
+      <li>Other - JSON api, GIT, Agile Development, Trello Project Management, Jira Software</li>
+      <li>Interpersonal Skills - Patient, Kind, Creative Problem Solving, Thoughtful Leadership, Collaborative</li>
+    </ul>
+  </section>
 
-<h3>Making Dreams a Reality, One Line of Code at a Time 🚀</h3>
+  <section>
+    <h2>Professional Experience</h2>
+    <article>
+      <h3>Freelance iOS and Android App Developer - WaggyTail Rescue</h3>
+      <p>9/2023 - Current</p>
+      <p>Tech | React Native, React Navigation, Expo, Redux, API Integration, React Hooks, JavaScript, Android Studio, xCode Studio</p>
+      <p>Utilized Agile Project Management to collaborate with designers and pet experts to educate potential adopters about cat and dog care with interactive quizzes, promoting responsible pet ownership</p>
+    </article>
 
-<p>Hey, I'm Beth – a passionate software engineer based in the vibrant city of Boston. For me, being a software
-        engineer isn't just about writing code; it's my personal mission to turn the American dream into a tangible
-        reality. With a thirst for learning and an unshakeable determination to make a lasting impact on society, I'm
-        ready to take on any challenge that comes my way.</p>
+    <article>
+      <h3>Freelance Front End Developer - Bodywork by Stephanie</h3>
+      <p>5/2023 - 8/2023</p>
+      <p>Tech | React.js, API Integration, Third Party Library, Responsive CSS Design, Reusable UI Component Architecture</p>
+      <p>Designed and structured the user interface, including the landing page, service offering pages, and FAQ sections. Ensured cross-browser compatibility and responsive design, optimizing the website's performance and accessibility</p>
+    </article>
 
-<h3>Skills 🛠️</h3>
-<h4>
-  Front End Developer | Bodywork by Stephanie
-</h4>
-<ul>
-  <li>
-    May 2023 - July 2023
-  </li>
-    <li>
-    Together with the client and UX designer, I crafted a website that not only resonates with the brand but
-            also beautifully showcases Stephanie's unique offerings.
-  </li>
-    <li>
-    Powered by React.js and React Router, I built the website with reusable components for maintainability, and
-            created custom APIs to seamlessly integrate dynamic content.
-  </li>
-  <li>
-    I kept the user experience top-notch by rigorously testing and resolving any bugs, ensuring a smooth and
-            enjoyable journey.
-  </li>
-</ul>
+    <article>
+      <h3>Owner/Personal Trainer - Beth Moves</h3>
+      <p>3/2018 - Current</p>
+      <p>Specialties | Post Physical Therapy Care, Biomechanic based Strength Training, Muscular Alignment</p>
+      <p>Cultivated a compassionate and empathetic approach, identifying clients' dysfunctional movement patterns and lifestyle habits while fostering a safe and trusting environment. Collaborated closely with clients to develop personalized fitness plans, focusing on improving physical movement and enhancing their overall quality of life.</p>
+    </article>
+  </section>
 
-<h4>
-  Owner/Personal Trainer | BethMoves | Boston, MA
-</h4>
+  <section>
+    <h2>Web Development Projects</h2>
+    <article>
+      <h3>DM Dock - For D&D game masters to find new monsters and easily access/update player data</h3>
+      <p>5/2023</p>
+      <p>Tech | Django, PostgreSql, React.js, JSON Web Token, CRUD via LocalStorage, RESTful routes using 3rd Party API, Python</p>
+      <p>Successfully designed, developed, and integrated the pagination functionality into the full stack application, ensuring smooth data navigation and efficient browsing of extensive datasets, while working independently to meet project timelines.</p>
+    </article>
 
-<ul>
-  <li>
-    March 2020 - Present
-  </li>
-    <li>
-    As a personal trainer, I'm not just about workouts. I create a safe and empathetic space, identifying
-            movement patterns and habits to improve clients' overall quality of life.
-  </li>
-    <li>
-    Building deep connections with clients over the past 5 years, my genuine care and active listening have led
-            to remarkable client retention rates.
-  </li>
-</ul>
+    <article>
+      <h3>Lost In The Woods - An open-source website for hikers to add their favorite outdoors spots</h3>
+      <p>4/2023</p>
+      <p>Tech | React.js, ReactRouter, Axios, CSS, Node.js, MongoDB, Mongoose, Express.js, Heroku, Full Stack Application</p>
+      <p>Designed and implemented a RESTful API with CRUD (Create, Read, Update, Delete) operations to interact with a MongoDB database, allowing users to add, view, edit, and delete camping and hiking entries.</p>
+    </article>
 
-<h4>
-  Passion Projects 💡
-</h4>
+    <article>
+      <h3>StrengthSidekick - Mobile app with intelligent algorithms inspired by biomechanics delivering personalized workouts</h3>
+      <p>11/2023</p>
+      <p>Tech | React Native, AsyncStorage, StyleSheet, StackNavigation, Android Studio, Django, Gunicorn, RESTFul Routes</p>
+      <p>Engineered a personalized algorithm with O(n) time complexity to curate customized workouts based on user-specific goals, experience levels, and available equipment, ensuring a tailored fitness experience. Established a robust backend using Django, PostgreSQL, and Gunicorn to create a scalable and secure infrastructure. Leveraged RESTful API and JSON API for efficient communication between the frontend and backend.</p>
+    </article>
+  </section>
 
-<h4>
-  DM DOCK
-</h4>
+  <section>
+    <h2>Education</h2>
+    <article>
+      <h3>React Native - The Practical Guide | Udemy</h3>
+      <p>9/2023 - Current</p>
+      <p>Skilled in leveraging React Native methodologies for efficient app development, encompassing navigation, styling and debugging, while also implementation maps, user authentication, and server connections.</p>
+    </article>
 
-<ul>
-  <li>
-    April 2023
-  </li>
-    <li>
-    Ever tried herding dragons? With DM Dock, game masters can effortlessly manage monsters and player data,
-            thanks to Django, PostgreSQL, React.js, and a sprinkle of magic
-  </li>
-    <li>
-    Crafting CRUD operations, I used LocalStorage for personalized profiles and seamlessly integrated a
-            third-party API for a seamless experience through 1,500 API elements.
-  </li>
-</ul>
+    <article>
+      <h3>Agile Project Management and Agile Product Delivery</h3>
+      <p>8/2023</p>
+    </article>
 
-<h4>
-  Restaurant Order App - Your Food Adventure Awaits
-</h4>
+    <article>
+      <h3>React - The Complete Guide | Udemy</h3>
+      <p>5/2023 - 8/2023</p>
+      <p>Achieved mastery in React.js core concepts, Hooks, Redux, and React Router. Proficient in building efficient, sustainable web applications with advanced state management and dynamic navigation. Expertise in server-side rendering and responsive design.</p>
+    </article>
 
-<ul>
-  <li>
-    June 2023
-  </li>
-    <li>
-    What's better than food? An app that orders it! I cooked up a React app that lets you build orders and see
-            the cost in real-time – all wrapped in a delicious UI.
-  </li>
-    <li>
-    I seasoned the codebase with best practices, making future updates a piece of cake.
-  </li>
-</ul>
+    <article>
+      <h3>General Assembly | Software Engineering Immersive Remote</h3>
+      <p>2/2023 - 5/2023</p>
+      <p>Full-stack software engineering immersive student in an intensive, twelve-week, 450+ hour program.</p>
+    </article>
+  </section>
 
-<h3>
-  Learning Never Stops 📚
-</h3>
+  <footer>
+    <p>General Assembly | Software Engineering Immersive Remote - 
 
-<h4>React Native - The Practile Guide</h4>
-<ul>
-  <li>
-This course on Udemy, "React Native - The Practical Guide," has equipped me with skills for efficient app development. Proficiency in navigation, styling, third-party libraries utilization, and debugging is now second nature. Additionally, mastery in implementing critical features like maps, image pickers, user authentication, and seamless server connections has been achieved.
-</li>
-</ul>
-
-<h4>Agile Course: Agile Project Managment, Agile Devlivery</h4>
-<ul><li>
-Completion of the intensive course on Agile Development and Project Delivery from Udemy has led to a deep understanding of Agile methodologies and their application. Proficiency in enhancing project efficiency using Agile principles, with a strong command of concepts like user stories, daily stand-ups, retrospectives, and kanban boards, has been acquired.
-</li></ul>
-
-<h4>
-React - The Complete Guide 2023 (incl. React Router & Redux)
-</h4>
-<ul>
-  <li>
-    Gained mastery over React.js core concepts, Hooks, Redux, and React Router. Proficient in constructing efficient and sustainable web applications, employing advanced state management and component logic techniques. Demonstrated expertise in creating dynamic navigation, incorporating server-side rendering, and adhering to top-tier industry practices for responsive design and accessibility.
-  </li>
-</ul>
-
-<h4>
-  General Assembly | Remote
-</h4>
-<ul>
-  <li>
-    Software Engineering Immersive | February 2023 - May 2023
-  </li>
-    <li>
-      Immersed in a 12-week program, I dived deep into software engineering – from product fundamentals to MVC
-            frameworks. Collaboration was the secret sauce.
-  </li>
-</ul>
-
-
-<p>
-  Let's cook up some awesome projects together! Reach out to me at <a href="mailto:bethjmdev@gmail.com">bethjmdev@gmail.com</a>
-
-  Connect with me on:
-    <a href="https://www.linkedin.com/in/bethmillsdev/">https://www.linkedin.com/in/bethmillsdev/</a>
-</p>
