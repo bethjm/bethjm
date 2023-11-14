@@ -2,15 +2,15 @@
 <h2>I am a Junior Software Engineer in Boston, MA </br>
   Currently I am looking for an entry level full stack engineering job. Open to remote, hybrid, or in person roles</h2>
       <p>(508) 525-7104 ∙ bethjmdev@gmail.com ∙ Boston, MA</p>
-  
-  <header>
+ </br>
+</br> 
     <p>
       <a href="link-to-portfolio">Portfolio</a> ∙
       <a href="link-to-linkedin">LinkedIn</a> ∙
       <a href="link-to-github">GitHub</a>
     </p>
-  </header>
-
+  </br>
+</br>
     <h2>Skills</h2>
     <ul>
       <li>Languages - JavaScript, HTML, CSS, Python, SQL Server, Mongo, JSON, EJS</li>
