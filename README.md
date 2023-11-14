@@ -3,14 +3,14 @@
   <p>My commitment to lifelong learning and collaboration has propelled me to constantly seek new ways to innovate and contribute to shared goals. With a dedication to excellence and a passion for knowledge, I am eager to join a team that shares my values and contribute my skills to drive success.</p>
 <p>Currently I am looking for an entry level full stack engineering job. Open to remote, hybrid, or in person roles</p>
  </br>
- <ul>
-      <a href="https://bethjmdev.netlify.app/">Portfolio</a>
-       </br>
+<p>
+   <a href="https://bethjmdev.netlify.app/">Portfolio</a>
       <a href="https://www.linkedin.com/in/bethmillsdev/">LinkedIn</a>
+  </p>
       <p>(508) 525-7104</p>
       <p>bethjmdev@gmail.com</p>
       <p>Boston, MA</p>
-        </ul>
+
   </br>
     <h2>Skills</h2>
     <ul>
