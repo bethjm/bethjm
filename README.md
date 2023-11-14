@@ -3,7 +3,6 @@
   Currently I am looking for an entry level full stack engineering job. Open to remote, hybrid, or in person roles</h2>
       <p>(508) 525-7104 ∙ bethjmdev@gmail.com ∙ Boston, MA</p>
  </br>
-</br> 
     <p>
       <a href="link-to-portfolio">Portfolio</a> ∙
       <a href="link-to-linkedin">LinkedIn</a> ∙
