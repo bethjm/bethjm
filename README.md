@@ -9,7 +9,6 @@
       <a href="https://www.linkedin.com/in/bethmillsdev/">LinkedIn</a> ∙
     </p>
   </br>
-</br>
     <h2>Skills</h2>
     <ul>
       <li>Languages - JavaScript, HTML, CSS, Python, SQL Server, Mongo, JSON, EJS</li>
