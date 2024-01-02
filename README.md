@@ -1,4 +1,10 @@
-# Beth Mills, Full Stack Software Engineer
+# Beth Mills, a passionate Software Engineer based in Boston, channels her enthusiasm into creating mobile apps and user-friendly websites. Currently freelancing for WaggyTail Rescue, Beth utilizes tools such as React Native and Redux to craft interactive quizzes for pet owners. Her commitment to collaborative efforts is evident as she actively engages with designers to bring about positive technological changes. 🚀
+
+This collaborative spirit is further showcased in Beth's contract work with a UX Designer to enhance the **Bodywork by Stephanie** website. Focusing on the development of simple and reusable components, Beth leverages React.js to meticulously design landing pages, service offerings, and FAQ sections. 🎨
+
+A standout achievement in Beth's portfolio is the creation of **StrengthSidekick**, a mobile app featuring intelligent algorithms rooted in biomechanics. This app delivers personalized workouts to users based on a 5-question quiz. Demonstrating her technical prowess, Beth engineered a scalable and secure backend using technologies such as AsyncStorage, StackNavigation, and Django. 💻
+
+Throughout her journey in software engineering, Beth remains dedicated to excellence, collaboration, and a profound belief in the transformative power of technology. 🌐
 
 **Location:** Boston, MA
 
@@ -55,3 +61,4 @@
 **Tech:** React.js, ReactRouter, Axios, CSS, Node.js, MongoDB, Mongoose, Express.js, Heroku, Full Stack Application
 
 - Designed and implemented a RESTful API with CRUD (Create, Read, Update, Delete) operations to interact with a MongoDB database, allowing users to add, view, edit, and delete camping and hiking entries.
+
