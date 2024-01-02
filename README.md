@@ -1,4 +1,10 @@
-# Beth Mills, a passionate Software Engineer based in Boston, channels her enthusiasm into creating mobile apps and user-friendly websites. Currently freelancing for WaggyTail Rescue, Beth utilizes tools such as React Native and Redux to craft interactive quizzes for pet owners. Her commitment to collaborative efforts is evident as she actively engages with designers to bring about positive technological changes. 🚀
+# Beth Mills, Software Engineer
+**Location:** Boston, MA
+[Portfolio](https://bethjmdev.netlify.app/) ∙ [LinkedIn](https://www.linkedin.com/in/bethmillsdev/) ∙ [Email](mailto:bethjmdev@gmail.com)
+
+## ABOUT BETH
+
+Beth channels her enthusiasm into creating mobile apps and user-friendly websites. Currently freelancing for WaggyTail Rescue, Beth utilizes tools such as React Native and Redux to craft interactive quizzes for pet owners. Her commitment to collaborative efforts is evident as she actively engages with designers to bring about positive technological changes. 🚀
 
 This collaborative spirit is further showcased in Beth's contract work with a UX Designer to enhance the **Bodywork by Stephanie** website. Focusing on the development of simple and reusable components, Beth leverages React.js to meticulously design landing pages, service offerings, and FAQ sections. 🎨
 
@@ -6,9 +12,6 @@ A standout achievement in Beth's portfolio is the creation of **StrengthSidekick
 
 Throughout her journey in software engineering, Beth remains dedicated to excellence, collaboration, and a profound belief in the transformative power of technology. 🌐
 
-**Location:** Boston, MA
-
-[Portfolio](https://bethjmdev.netlify.app/) ∙ [LinkedIn](https://www.linkedin.com/in/bethmillsdev/) ∙ [Email](mailto:bethjmdev@gmail.com)
 
 ---
 
