@@ -1,4 +1,4 @@
-# Beth Mills, Software Engineer
+### Beth Mills, Software Engineer
 **Location:** Boston, MA
 </br>
 [Portfolio](https://bethjmdev.netlify.app/) ∙ [LinkedIn](https://www.linkedin.com/in/bethmillsdev/) ∙ [Email](mailto:bethjmdev@gmail.com)
