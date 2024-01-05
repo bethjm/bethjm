@@ -32,13 +32,13 @@ Throughout her journey in software engineering, Beth remains dedicated to excell
 - Cultivated a compassionate and empathetic approach, identifying clients' dysfunctional movement patterns and lifestyle habits while fostering a safe and trusting environment.
 - Collaborated closely with clients to develop personalized fitness plans, focusing on improving physical movement and enhancing their overall quality of life.
 
-### Freelance iOS and Android App Developer - [WaggyTailsApp]([https://github.com/bethjm/WaggyTailsApp](https://waggyadoptquiz.netlify.app/) *(9/2023 - 12/2023)*
+### Front End React Native Developer - WaggyTailsApp [https://waggyadoptquiz.netlify.app/] *(9/2023 - 12/2023)*
 
 **Tech:** React Native, React Navigation, Expo, Redux, API Integration, React Hooks, JavaScript, Android Studio, xCode Studio
 
 - Utilized Agile Project Management to collaborate with designers and pet experts to educate potential adopters about cat and dog care with interactive quizzes, promoting responsible pet ownership.
 
-### Freelance Front End Developer - [bodyworkbystephanie.netlify.app](https://bodyworkbystephanie.netlify.app/) *(5/2023 - 8/2023)*
+### Front End Developer  - Bodywork By Stephanie [bodyworkbystephanie.netlify.app] *(5/2023 - 8/2023)*
 
 **Tech:** React.js, API Integration, Third Party Library, Responsive CSS Design, Reusable UI Component Architecture
 
