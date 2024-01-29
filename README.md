@@ -56,10 +56,3 @@ Collaboration is at the core of my work ethic, as I embrace different perspectiv
 
 Hiking 4k+ Foot Mountains, Film Cameras, Culinary Recreation
 
-
-### Lost In The Woods - An open source website for hikers to add their favorite outdoors spots *(3/2023 - 4/2023)*
-
-**Tech:** React.js, ReactRouter, Axios, CSS, Node.js, MongoDB, Mongoose, Express.js, Heroku, Full Stack Application
-
-- Designed and implemented a RESTful API with CRUD (Create, Read, Update, Delete) operations to interact with a MongoDB database, allowing users to add, view, edit, and delete camping and hiking entries.
-
