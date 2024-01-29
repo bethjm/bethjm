@@ -5,60 +5,57 @@
 
 ## ABOUT BETH
 
-Beth channels her enthusiasm into creating mobile apps and user-friendly websites. Currently freelancing for WaggyTail Rescue, Beth utilizes tools such as React Native and Redux to craft interactive quizzes for pet owners. Her commitment to collaborative efforts is evident as she actively engages with designers to bring about positive technological changes. 🚀
+My diverse background in software engineering and biomechanics has significantly influenced my problem-solving skills and collaborative approach. I have a strong commitment to learning and teamwork, constantly striving for excellence and seeking new knowledge. I am eager to join a team that values these principles, contributing my skills to shared goals and exploring innovative paths to success. 🚀
 
-This collaborative spirit is further showcased in Beth's contract work with a UX Designer to enhance the **Bodywork by Stephanie** website. Focusing on the development of simple and reusable components, Beth leverages React.js to meticulously design landing pages, service offerings, and FAQ sections. 🎨
-
-A standout achievement in Beth's portfolio is the creation of **StrengthSidekick**, a mobile app featuring intelligent algorithms rooted in biomechanics. This app delivers personalized workouts to users based on a 5-question quiz. Demonstrating her technical prowess, Beth engineered a scalable and secure backend using technologies such as AsyncStorage, StackNavigation, and Django. 💻
-
-Throughout her journey in software engineering, Beth remains dedicated to excellence, collaboration, and a profound belief in the transformative power of technology. 🌐
-
+Collaboration is at the core of my work ethic, as I embrace different perspectives and advocate for my ideas. Thriving in dynamic environments, I prioritize collective success and support a culture that fosters teamwork. My experience in software engineering and biomechanics equips me with essential qualities for effective collaboration, including empathy, adaptability, and a deep understanding of individual needs. These traits enable me to cultivate supportive relationships and facilitate teamwork in any group setting. 🌐
 
 ---
+## Work Experience
 
-## PROFESSIONAL EXPERIENCE
+## Freelance Developer at BethCodes								            5/2023-Current
+   **Full Stack Mobile Developer for Strength Sidekick at BethMoves | 11/2023 - Current**
+   
+- Engineered O(n) algorithm to curate workouts based on user-specific goals, experience levels, and available equipment, delivering personalized workouts
+- Supports 6 active users, saving personal trainers 9 hours per month to instead focus on sales and relationships
+- Collaborating with UX designer to enhance visuals, create user stories, and identify target demographic
 
-### Full Stack React Native Developer for StrengthSidekick - Beth Moves *(9/2023 - Current)*
+**Freelance Front End Mobile Developer at Waggytail Rescue | 9/2023 - 1/2024**
 
-**Tech:** React Native, AsyncStorage, StyleSheet, StackNavigation, Android Studio, Django, Gunicorn, RESTFul Routes
+- Created a quiz application to be used in the adoption process, enabling the approval of 20+ monthly adoptions
+- Utilized Agile Project Management to collaborate with designers and pet experts
+- Created reusable components with dynamic content sourced from an integrated API
+- Established universal application styling in React Native for iOS, Android, and web use
 
-- Engineered a personalized algorithm with O(n) time complexity to curate customized workouts based on user-specific goals, experience levels, and available equipment, delivering personalized workouts based in biomechanical science.
-- Established a robust backend using Django, PostgreSQL, and Gunicorn to create a scalable and secure infrastructure. Leveraged RESTful API and JSON API for efficient communication between the frontend and backend.
+**Freelance Front End Developer at Bodywork By Stephanie | 5/2023 - 8/2023**
 
-### Owner/Personal Trainer - Beth Moves *(3/2020 - Current)*
+- Developed a website to inform potential clients of services and ease access to booking for 100+ monthly sessions
+- Managed a team of 2, including UX designer, from project start to web application deployment
+- Used React.js to develop a single-page application with reusable components and dynamic content
 
-**Specialties:** Post Physical Therapy Care, Biomechanic based Strength Training, Muscular Alignment
+**DM Dock, Capstone Project | 4/2023 - 5/2023**
 
-- Cultivated a compassionate and empathetic approach, identifying clients' dysfunctional movement patterns and lifestyle habits while fostering a safe and trusting environment.
-- Collaborated closely with clients to develop personalized fitness plans, focusing on improving physical movement and enhancing their overall quality of life.
+- Created a web application for game masters to find new monsters and easily access monster data and player data
+- Used by 2 monthly active users, eliminating the need for 3 other programs
 
-### Front End React Native Developer - WaggyTailsApp [https://waggyadoptquiz.netlify.app/] *(9/2023 - 12/2023)*
+## Owner/Personal Trainer at BethMoves 	      3/2020 - Current
 
-**Tech:** React Native, React Navigation, Expo, Redux, API Integration, React Hooks, JavaScript, Android Studio, xCode Studio
+- Collaborated closely with clients to develop personalized fitness plans, focusing on improving physical movement and instilling long term habit changes to enhance their overall quality of life
+- Established and grew a thriving business, achieving sustained profitability over the 4-year period
+- Navigated the challenges of running a small business, showcasing strategic thinking and decision-making
+- Effectively balanced multiple responsibilities, showcasing strong organizational and time management abilities
 
-- Utilized Agile Project Management to collaborate with designers and pet experts to educate potential adopters about cat and dog care with interactive quizzes, promoting responsible pet ownership.
+## SKILLS
 
-### Front End Developer  - Bodywork By Stephanie [bodyworkbystephanie.netlify.app] *(5/2023 - 8/2023)*
+**Proficient in** JavaScript, React.js, React Native, PostgreSQL, Django, RESTful Routes, Node, Axios, HTML, CSS, StyleSheets, Bulma.io, Agile, JSON Web Token, Postman, GIT
 
-**Tech:** React.js, API Integration, Third Party Library, Responsive CSS Design, Reusable UI Component Architecture
+**Experienced with** SQL, MongoDB, Mongoose, Next.js, Python, Bootstrap, Jest, EJS
 
-- Designed and structured the user interface, including the landing page, service offering pages, and FAQ sections. Ensured cross-browser compatibility and responsive design, optimizing the website's performance and accessibility.
+**Learning** Ruby, TailwindCSS
 
-### Personal Trainer - New York Sports Clubs *(6/2018 - 3/2020)*
+## Interests
 
-**Specialties:** Powerlifting, Sports Conditioning, Body Recomposition
+Hiking 4k+ Foot Mountains, Film Cameras, Culinary Recreation
 
-- Coached powerlifting techniques emphasizing form, biomechanics, and progressive overload. Conduct detailed assessments, tailoring programs for muscle hypertrophy and body fat reduction.
-
----
-
-## WEB DEVELOPMENT PROJECTS
-
-### DM Dock - For D&D game masters to find new monsters and easily access/update player data *(4/2023 - 5/2023)*
-
-**Tech:** Django, PostgreSql, React.js, JSON Web Token, CRUD via LocalStorage, RESTful routes using 3rd Party API, Python
-
-- Successfully designed, developed, and integrated the pagination functionality into the full stack application, ensuring smooth data navigation and efficient browsing of extensive datasets, while working independently to meet project timelines.
 
 ### Lost In The Woods - An open source website for hikers to add their favorite outdoors spots *(3/2023 - 4/2023)*
 
